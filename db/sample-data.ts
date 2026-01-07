@@ -1,7 +1,7 @@
 const sampleData = {
   products: [
     {
-      name: 'Polo Sporting Stretch Shirt',
+      name: 'Poloo Sporting Stretch Shirt',
       slug: 'polo-sporting-stretch-shirt',
       category: "Men's Dress Shirts",
       description: 'Classic Polo style with modern comfort',
